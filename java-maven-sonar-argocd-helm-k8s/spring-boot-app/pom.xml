@@ -76,6 +76,16 @@
 
         </plugins>
     </build>
-
+<repositories>
+    <repository>
+        <id>central</id>
+        <url>https://repo.maven.apache.org/maven2</url>
+    </repository>
+    <repository>
+        <id>alternative-central</id>
+        <url>https://repo1.maven.org/maven2</url>
+    </repository>
+</repositories>
 
 </project>
+
