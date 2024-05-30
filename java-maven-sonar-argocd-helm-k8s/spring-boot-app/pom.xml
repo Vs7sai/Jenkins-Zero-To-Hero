@@ -46,7 +46,7 @@
             <artifactId>spring-boot-devtools</artifactId>
             <optional>true</optional>
         </dependency>
-             </plugin>
+             
                  <dependency>
                       <groupId>org.sonarsource.scanner.api</groupId>
                       <artifactId>sonar-scanner-api</artifactId>
